@@ -9,9 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/google": "^0.0.35",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@google/generative-ai": "^0.16.0",
+    "@langchain/openai": "^0.2.6",
+    "@langchain/pinecone": "^0.0.8",
+    "@mui/material": "^5.16.6",
+    "@pinecone-database/pinecone": "^3.0.0",
+    "ai": "^3.3.5",
+    "dompurify": "^3.1.6",
+    "markdown-it": "^14.1.0",
+    "next": "14.2.5",
+    "openai": "^4.55.3",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.5"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "eslint": "^8",
